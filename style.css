@@ -1,0 +1,23 @@
+element.style {
+}
+
+body {
+    background-color: #f8ddde;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+html {
+    color: -internal-root-color;
+}
